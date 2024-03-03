@@ -1,0 +1,1 @@
+securing a three-tier architecture on AWS involves implementing a combination of security measures across all layers of the architecture, leveraging AWS security services and best practices, ensuring compliance with industry standards, and establishing robust monitoring and incident response mechanisms.
